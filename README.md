@@ -1,4 +1,6 @@
-# ddd-kata1
+# DDD Kata
+
+Practice Strategic Design and Architecture
 
 Strategic Design 
 
